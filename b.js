@@ -1,1 +1,3 @@
-console.log("Hello from b.js");
+export function greet() {
+    console.log("Greetings from b.js");
+}
